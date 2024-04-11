@@ -6,7 +6,7 @@ export default function Home() {
      <div className={styles.container}>
       
       <div className={styles.col}>
-        <h1 className={styles.title}>   title product  </h1>
+        <h1 className={styles.title}>   Votre premier Partenaire  EN LIGNE  </h1>
         <p className={styles.description}> description  de produit</p>
         <button className={styles.button}> Shop Now</button>
 
@@ -17,8 +17,6 @@ export default function Home() {
       
       
       </div>
-      
-      
       
       
        </div>

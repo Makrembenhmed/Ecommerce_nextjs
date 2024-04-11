@@ -1,0 +1,26 @@
+.produit{
+    display: flex;
+    align-items: center;
+    gap:50px;
+    margin-bottom: 50px;
+    border: 1px solid #555 ;
+    border-radius: 15px;
+}
+.produit:nth-child(even){
+    background-color: black;
+}
+.image{
+    border-radius: 15px;
+    object-fit: fill;
+}
+.title{
+    font-weight: 700;
+
+}
+.content{
+
+}
+.text{
+font: size 18px;
+color: #999 ;
+}

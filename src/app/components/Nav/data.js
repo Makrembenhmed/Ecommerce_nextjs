@@ -9,8 +9,14 @@ export const links = [{
     url:"/portfalio"
 },
 
+
 {
     id:3,
+    title:"Produit",
+    url:"/produits"
+},
+{
+    id:4,
     title:"contact",
     url:"/contact"
 },
